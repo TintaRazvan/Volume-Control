@@ -1,5 +1,3 @@
-- [System Requirements](#-system-requirements)# 🎛️ Volume Control - Hand Gesture Recognition
-
 An intelligent volume control system that uses hand gesture recognition through webcam to adjust system volume in real-time.
 
 ![Python](https://img.shields.io/badge/python-v3.12+-blue.svg)
