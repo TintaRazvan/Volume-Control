@@ -1,4 +1,4 @@
-# 🎛️ Volume Control - Hand Gesture Recognition
+- [System Requirements](#-system-requirements)# 🎛️ Volume Control - Hand Gesture Recognition
 
 An intelligent volume control system that uses hand gesture recognition through webcam to adjust system volume in real-time.
 
@@ -19,8 +19,6 @@ An intelligent volume control system that uses hand gesture recognition through 
 - [Configurable Parameters](#-configurable-parameters)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
 
 ## 🎯 About
 
@@ -67,18 +65,7 @@ This project was developed to provide:
 - **Red Circle**: Thumb (landmark 4)
 - **Green Line**: Connection between control points
 
-## 💻 System Requirements
 
-### Hardware Requirements
-- **Webcam**: Any OpenCV-compatible camera
-- **RAM**: Minimum 4GB (8GB+ recommended)
-- **CPU**: Intel i3/AMD Ryzen 3 or higher
-- **OS**: Windows 10+, macOS 10.14+, Linux Ubuntu 18.04+
-
-### Software Requirements
-- **Python**: Version 3.12 or newer
-- **Pip**: For dependency installation
-- **Camera Permissions**: Access to webcam
 
 ## 🚀 Installation
 
@@ -300,44 +287,6 @@ git push origin feature/your-feature-name
 - [ ] Gesture training mode
 - [ ] Volume level display
 - [ ] Custom key bindings
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Volume Control Project
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions...
-```
-
-## 📞 Contact
-
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- **MediaPipe Team**: For the excellent hand tracking solution
-- **OpenCV Community**: For computer vision tools
-- **PyAutoGUI**: For system automation capabilities
-- **Python Community**: For the amazing ecosystem
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/volume-control)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/volume-control)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/volume-control)
-![GitHub license](https://img.shields.io/github/license/yourusername/volume-control)
 
 ---
 
